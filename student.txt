@@ -1,9 +1,8 @@
-names     age 
-john      10
-charles   20
-harry     30
-andrea    40
-nancy     50
-danny     60
-ralf      25
-andy      32
+john
+charles
+harry
+andrea
+nancy
+danny
+ralf
+andy
